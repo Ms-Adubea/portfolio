@@ -2,7 +2,7 @@ nav {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    height: 71px;
+    height: 75px;
     align-items: center;
     background-color: #0779E4;
 }
@@ -33,7 +33,7 @@ nav {
     font-size: 16px;
 }
 
-.hero-info {
+/* .hero-info {
     width: 50;
     padding-bottom: 48px;
-}
+} */
